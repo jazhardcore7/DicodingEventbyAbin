@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">DicodingEventbyAbin</string>
+    <string name="title_home">Home</string>
+    <string name="upcoming_events">Upcoming Events</string>
+    <string name="completed_events">Completedd Events</string>
+    <string name="title_upcoming">Upcoming</string>
+    <string name="title_completed">Completed</string>
+    <string name="daftar_gratis">Register Free</string>
+    <string name="cover_media_event">Cover Media Event</string>
+    <string name="add_favorite">Tambah Ke Favorit</string>
+    <string name="favorited">Favorited</string>
+    <string name="organized_by">Organized by: %1$s</string>
+    <string name="loc">Location: %1$s</string>
+    <string name="start_time">Start Time: %1$s</string>
+    <string name="end_time">End Time: %1$s</string>
+    <string name="slot_avail">%1$d Slot Tersisa</string>
+    <string name="setting">Settings</string>
+    <string name="favorited_event">Favorite Event</string>
+    <string name="rec_event">Event yang kamu favoritkan</string>
+    <string name="dark_mode">Mode Malam (Dark Mode)</string>
+    <string name="enable_dark_mode">Hidupkan Dark Mode</string>
+    <string name="daily_reminder">Daily Reminder</string>
+    <string name="enable_notification">Hidupkan Pengingat</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="creator_app">Ahmad Bintara Mansur</string>
+    <string name="grupstudi">MD-11</string>
+</resources>
