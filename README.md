@@ -1,4 +1,4 @@
-#Dicoding Event by Abin
+# Dicoding Event by Abin
 
 This app let you know about the current held event or pass event from Dicoding. Designed with simple UI makes it really great for common users
 
